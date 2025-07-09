@@ -20,8 +20,8 @@ class Logger:
 if _name_ == "_main_":
     logger = Logger("log.txt")
     logger.write("This is a log message.")
-    logger.write("My name is SYED MOHAMMAD ARSALAN")
-    logger.write("My father name is SYED MOHAMMAD ARSHAD")
+    logger.write("My name is MD SHOHAN MIA")
+    logger.write("My father name is MD AYUB MIA")
     logger.write("I love music")
     logger.write("I love CP")
 
